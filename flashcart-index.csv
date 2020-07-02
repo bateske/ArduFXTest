@@ -120,6 +120,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 3;Squario;Platformer\Squario.png;Platformer\Squario.hex;;
 3;CasteBoy;Platformer\CastleBoy.png;Platformer\CastleBoy.hex;;
 3;bounce;Platformer\bounce.png;Platformer\bounce.hex;;
+3;SquareNose;Platformer\SquareNose.png;Platformer\SquareNose.hex;;
 4;Puzzle;category-screens\Puzzle.png;;;
 4;1010;Puzzle\1010.png;Puzzle\1010.hex;;
 4;2048;Puzzle\2048.png;Puzzle\2048.hex;;
@@ -223,6 +224,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;CowBro;Shooter\CowBro.png;Shooter\CowBro.hex;;
 9;dyrl;Shooter\dyrl.png;Shooter\dyrl.hex;;
 9;Galaxion;Shooter\Galaxion.png;Shooter\Galaxion.hex;;
+9;HumanityRevenge;Shooter\HumanityRevenge.png;Shooter\HumanityRevenge.hex;;
 9;KemonoPatrol;Shooter\KemonoPatrol.png;Shooter\KemonoPatrol.hex;;
 9;l4arduboy;Shooter\l4arduboy.png;Shooter\l4arduboy.hex;;
 9;NightRaid;Shooter\NightRaid.png;Shooter\NightRaid.hex;;
