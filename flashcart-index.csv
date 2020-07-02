@@ -111,7 +111,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;Traindodge;Arcade\Traindodge.png;Arcade\Traindodge.hex;;
 2;Turtlebridge;Arcade\Turtlebridge.png;Arcade\Turtlebridge.hex;;
 2;Twotris;Arcade\Twotris.png;Arcade\Twotris.hex;;
-2;Umeroose;Arcade\Umeroose.png;Arcade\Umeroose.hex;;
 2;WHG;Arcade\WHG.png;Arcade\WHG.hex;;
 2;YouWontSurvive;Arcade\YouWontSurvive.png;Arcade\YouWontSurvive.hex;;
 3;Platformer;category-screens\Platformer.png;;;
@@ -190,7 +189,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 6;ardynia;RPG\ardynia.png;RPG\ardynia.hex;;
 6;darkandunder;RPG\darkandunder.png;RPG\darkandunder.hex;;
 6;HelloCommander;RPG\HelloCommander.png;RPG\HelloCommander.hex;;
-6;MayQ;RPG\MayQ.png;RPG\MayQ.hex;;
 6;MiniRogue;RPG\MiniRogue.png;RPG\MiniRogue.hex;;
 6;RickMorty;RPG\Rick-and-Morty.png;RPG\Rick-and-Morty.hex;;
 6;Rogue;RPG\Rogue.png;RPG\Rogue.hex;;
@@ -232,7 +230,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;l4arduboy;Shooter\l4arduboy.png;Shooter\l4arduboy.hex;;
 9;NightRaid;Shooter\NightRaid.png;Shooter\NightRaid.hex;;
 9;potd;Shooter\potd.png;Shooter\potd.hex;;
-9;SFZ;Shooter\SFZ.png;Shooter\SFZ.hex;;
 9;SpaceFighter;Shooter\SpaceFighter.png;Shooter\SpaceFighter.hex;;
 9;SpaceKnife;Shooter\SpaceKnife.png;Shooter\SpaceKnife.hex;;
 9;Starduino;Shooter\Starduino.png;Shooter\Starduino.hex;;
