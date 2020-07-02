@@ -57,7 +57,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;Chromedino;Arcade\Chromedino.png;Arcade\Chromedino.hex;;
 2;SNAKE;Arcade\SNAKE.png;Arcade\SNAKE.hex;;
 2;Crateconfusion;Arcade\Crateconfusion.png;Arcade\Crateconfusion.hex;;
-2;Crates3d;Arcade\Crates3d.png;Arcade\Crates3d.hex;;
 2;CutieE;Arcade\CutieE.png;Arcade\CutieE.hex;;
 2;Dancerow;Arcade\Dancerow.png;Arcade\Dancerow.hex;;
 2;Diamonds;Arcade\diamonds.png;Arcade\diamonds.hex;;
@@ -134,6 +133,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;Bombzzle;Puzzle\Bombzzle.png;Puzzle\Bombzzle.hex;;
 4;Boxstacker;Puzzle\Boxstacker.png;Puzzle\Boxstacker.hex;;
 4;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;
+4;Crates3d;Puzzle\Crates3d.png;Puzzle\Crates3d.hex;;
 4;Cribbage;Puzzle\Cribbage.png;Puzzle\Cribbage.hex;;
 4;Cripplemronion;Puzzle\Cripplemronion.png;Puzzle\Cripplemronion.hex;;
 4;Digger;Puzzle\Digger.png;Puzzle\Digger.hex;;
@@ -274,11 +274,13 @@ List;Discription;Title screen;Hex file;Data file;Save file
 12;book;Application\book.png;Application\book.hex;;
 12;brainfxck;Application\brainfxck.png;Application\brainfxck.hex;;
 12;CreditCard;Application\CreditCard.png;Application\CreditCard.hex;;
+12;ArduboyLightMeter;Application\ArduboyLightMeter.png;Application\ArduboyLightMeter.hex;;
 12;ArduMetronome;Application\ArduMetronome.png;Application\ArduMetronome.hex;;
 12;ArduRemote;Application\ArduRemote.png;Application\ArduRemote.hex;;
 12;ArduSaver;Application\ArduSaver.png;Application\ArduSaver.hex;;
 12;Ardutosh;Application\Ardutosh.png;Application\Ardutosh.hex;;
-12;Toolbox;Application\Toolbox.png;Application\Toolbox.hex;;
+12;GolfCompanion;Application\GolfCompanion.png;Application\GolfCompanion.hex;;
+12;CodersToolbox;Application\Toolbox.png;Application\Toolbox.hex;;
 12;eggmaster;Application\eggmaster.png;Application\eggmaster.hex;;
 12;Graph;Application\Graph.png;Application\Graph.hex;;
 12;graph2;Application\graph2.png;Application\graph2.hex;;
