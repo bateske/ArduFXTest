@@ -110,7 +110,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;Tinymissile;Arcade\Tinymissile.png;Arcade\Tinymissile.hex;;
 2;Traindodge;Arcade\Traindodge.png;Arcade\Traindodge.hex;;
 2;Turtlebridge;Arcade\Turtlebridge.png;Arcade\Turtlebridge.hex;;
-2;Twotris;Arcade\Twotris.png;Arcade\Twotris.hex;;
 2;WHG;Arcade\WHG.png;Arcade\WHG.hex;;
 2;YouWontSurvive;Arcade\YouWontSurvive.png;Arcade\YouWontSurvive.hex;;
 3;Platformer;category-screens\Platformer.png;;;
@@ -166,14 +165,12 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;spacequarth;Puzzle\spacequarth.png;Puzzle\spacequarth.hex;;
 4;stairssweep;Puzzle\stairssweep.png;Puzzle\stairssweep.hex;;
 4;sudoku;Puzzle\sudoku.png;Puzzle\sudoku.hex;;
-4;tetris;Puzzle\tetris.png;Puzzle\tetris.hex;;
+4;termtwirl;Puzzle\termtwirl.png;Puzzle\termtwirl.hex;;
 4;curse;Puzzle\curse.png;Puzzle\curse.hex;;
 4;TicTacCurly;Puzzle\TicTacCurly.png;Puzzle\TicTacCurly.hex;;
 4;tinytower;Puzzle\tinytower.png;Puzzle\tinytower.hex;;
 4;tinysokoban;Puzzle\tinysokoban.png;Puzzle\tinysokoban.hex;;
-4;TinyTris;Puzzle\TinyTris.png;Puzzle\TinyTris.hex;;
 4;Tres;Puzzle\Tres.png;Puzzle\Tres.hex;;
-4;Tris;Puzzle\Tris.png;Puzzle\Tris.hex;;
 4;Yatzy;Puzzle\Yatzy.png;Puzzle\Yatzy.hex;;
 4;Zoo;Puzzle\Zoo.png;Puzzle\Zoo.hex;;
 5;Racing;category-screens\Racing.png;;;
