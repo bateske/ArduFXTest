@@ -4,10 +4,47 @@
 	<meta charset="UTF-8">
 	<title>Only a Test</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+	<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+
+	<style>
+    body {
+      background-color: lightblue;
+    }
+    
+    h1 {
+      color: white;
+font-family: 'VT323', monospace;
+    font-size: 50px;
+    margin: 0px;
+    }
+    
+    p {
+      font-family: verdana;
+      font-size: 20px;
+    }
+    
+    .row{
+        background: black;
+        color: white;
+
+
+    }
+    
+    .titleScreen{
+        height: 128px;
+        width: 246px;
+        -ms-interpolation-mode: nearest-neighbor;
+        image-rendering: pixelated;
+    }
+    
+    hr{
+            border: 5px solid white;
+    }
+</style>
 </head>
 <body>
-	<h1>This is only a test</h1>
-	<div class="row" id="csv-display" style="height:500px;overflow: scroll;">
+	<div class="row" id="csv-display">
 	</div>
 </body>
 </html>
@@ -17,46 +54,48 @@
 	var data;
 	$.ajax({
 	  type: "GET",  
-	  url: "https://bateske.github.io/ArduFXTest/flashcart-index.csv",
+	  url: "./flashcart-index.csv",
 	  dataType: "text",       
 	  success: function(response)  
 	  {
-		data = $.csv.toArrays(response);
-		generateHtmlTable(data);
+	    tabledata = response.replace(/\;/g,",");
+        urldata = tabledata.replace(/\\/g, "/");
+		csvdata = $.csv.toArrays(urldata);
+		console.log(csvdata)
+		generateHtmlTable(csvdata);
 	  }   
 	});
 	
 	function generateHtmlTable(data) {
-		var html = '<table  class="table table-condensed table-hover table-striped">';
+		var html = '';
 
       if(typeof(data[0]) === 'undefined') {
         return null;
       } else {
+          
+          var catCount = 255;
 		$.each(data, function( index, row ) {
 		  //bind header
 		  if(index == 0) {
-			html += '<thead>';
-			html += '<tr>';
-			$.each(row, function( index, colData ) {
-				html += '<th>';
-				html += colData;
-				html += '</th>';
-			});
-			html += '</tr>';
-			html += '</thead>';
-			html += '<tbody>';
+
 		  } else {
-			html += '<tr>';
-			$.each(row, function( index, colData ) {
-				html += '<td>';
-				html += colData;
-				html += '</td>';
-			});
-			html += '</tr>';
+                if(catCount != row[0]){
+                    html += '<hr><h1>'+ row[1] + '</h1>';
+                    catCount = row[0];
+                    var href = window.location.href;
+                    var dir = href.substring(0, href.lastIndexOf('/')) + "/";
+				    html +='<a target="_new" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"></a>';
+				    html +='<br>'
+                }
+                else{
+                        var href = window.location.href;
+                        var dir = href.substring(0, href.lastIndexOf('/')) + "/";
+				    html +='<a target="_new" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"></a>';
+                }
+
 		  }
 		});
-		html += '</tbody>';
-		html += '</table>';
+
 		
 		$('#csv-display').append(html);
 	  }
