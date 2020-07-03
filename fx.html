@@ -12,7 +12,7 @@
 
 	<style>
     body {
-      background-color: lightblue;
+      background-color: black;
     }
     
     h1 {
@@ -41,6 +41,7 @@ font-family: 'VT323', monospace;
         image-rendering: pixelated;
     }
     
+		
     hr{
             border: 5px solid white;
     }
@@ -83,11 +84,11 @@ font-family: 'VT323', monospace;
 
 		  } else {
                 if(catCount != row[0]){
-                    html += '<hr><h1>'+ row[1] + '</h1>';
+                    //html += '<hr><h1>'+ row[1] + '</h1>';
                     catCount = row[0];
                     var href = window.location.href;
                     var dir = href.substring(0, href.lastIndexOf('/')) + "/";
-				    html +='<a target="mainframe" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"></a>';
+				    html +='<center><a target="mainframe" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"></a></center>';
 				    html +='<br>'
                 }
                 else{
