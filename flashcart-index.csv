@@ -47,6 +47,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;ASTEROIDS;Arcade\ASTEROIDS.png;Arcade\ASTEROIDS.hex;;
 2;Backtothejungle;Arcade\Backtothejungle.png;Arcade\Backtothejungle.hex;;
 2;Bangbang;Arcade\Bangbang.png;Arcade\Bangbang.hex;;
+2;BipBipBip;Arcade\BipBipBip.png;Arcade\BipBipBip.hex;;
 2;BiriBiriBeat;Arcade\biribiribeat.png;Arcade\biribiribeat.hex;;
 2;Borisgoesskiing;Arcade\Borisgoesskiing.png;Arcade\Borisgoesskiing.hex;;
 2;Bounce;Arcade\bounce.png;Arcade\bounce.hex;;
@@ -124,6 +125,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;Puzzle;category-screens\Puzzle.png;;;
 4;1010;Puzzle\1010.png;Puzzle\1010.hex;;
 4;2048;Puzzle\2048.png;Puzzle\2048.hex;;
+4;AMaze;Puzzle\AMaze.png;Puzzle\AMaze.hex;;
 4;Arduboysays;Puzzle\Arduboysays.png;Puzzle\Arduboysays.hex;;
 4;Arducross;Puzzle\Arducross.png;Puzzle\Arducross.hex;;
 4;Ardulem;Puzzle\Ardulem.png;Puzzle\Ardulem.hex;;
