@@ -1,5 +1,5 @@
 List;Discription;Title screen;Hex file;Data file;Save file
-0;Bootloader;arduboy_loader.png;;;
+0;Bootloader;arduboy-fx-loader.png;;;
 1;Action;category-screens\Action.png;;;
 1;ArduIndy;Action\ArduIndy.png;Action\ArduIndy.hex;;
 1;Bangi;Action\Bangi.png;Action\Bangi.hex;;
