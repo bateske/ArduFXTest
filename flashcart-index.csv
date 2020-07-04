@@ -179,6 +179,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;Racing;category-screens\Racing.png;;;
 5;Arddriving;Racing\Arddriving.png;Racing\Arddriving.hex;;
 5;ArduRacer;Racing\ArduRacer.png;Racing\ArduRacer.hex;;
+5;BoneShakers;Racing\BoneShakers.png;Racing\BoneShakers.hex;;
 5;CrazyKart;Racing\CrazyKart.png;Racing\CrazyKart.hex;;
 5;Randocity;Racing\Randocity.png;Racing\Randocity.hex;;
 5;tinybike;Racing\tinybike.png;Racing\tinybike.hex;;
