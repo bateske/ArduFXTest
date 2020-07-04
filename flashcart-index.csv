@@ -1,10 +1,10 @@
 List;Discription;Title screen;Hex file;Data file;Save file
-0;Bootloader;arduboy_loader.png;;;
+0;Bootloader;arduboy-fx-loader.png;;;
 1;Action;category-screens\Action.png;;;
 1;ArduIndy;Action\ArduIndy.png;Action\ArduIndy.hex;;
 1;Bangi;Action\Bangi.png;Action\Bangi.hex;;
 1;CascadePath;Action\Cascadepath.png;Action\Cascadepath.hex;;
-1;Catacombsofthedead;Action\Cotd.png;Action\Cotd.hex;;
+1;Catacombsofthedamned;Action\Cotd.png;Action\Cotd.hex;;
 1;Choplifter;Action\Choplifter.png;Action\Choplifter.hex;;
 1;Crabator;Action\Crabator.png;Action\Crabator.hex;;
 1;EpicMiniGames;Action\epicminigames.png;Action\epicminigames.hex;;
@@ -144,7 +144,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;Farkle;Puzzle\Farkle.png;Puzzle\Farkle.hex;;
 4;Floodfill;Puzzle\Floodfill.png;Puzzle\Floodfill.hex;;
 4;Hangman;Puzzle\Hangman.png;Puzzle\Hangman.hex;;
-4;Whist;Puzzle\Whist.png;Puzzle\Whist.hex;;
+4;GermanWhist;Puzzle\Whist.png;Puzzle\Whist.hex;;
 4;KnightMove;Puzzle\knightmove.png;Puzzle\knightmove.hex;;
 4;KOOKY;Puzzle\KOOKY.png;Puzzle\KOOKY.hex;;
 4;LATE;Puzzle\LATE.png;Puzzle\LATE.hex;;
