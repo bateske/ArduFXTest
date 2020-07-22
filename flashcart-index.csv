@@ -1,16 +1,16 @@
 List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 0;Bootloader;arduboy-fx-loader.png;;;;;
 1;Action;category-screens\Action.png;;;;;
-1;ArduIndy;Action\ArduIndy.png;Action\ArduIndy.hex;;;8;
-1;Bangi;Action\Bangi.png;Action\Bangi.hex;;;14;
-1;CascadePath;Action\Cascadepath.png;Action\Cascadepath.hex;;;9;
-1;Catacombsofthedamned;Action\Cotd.png;Action\Cotd.hex;;;40;
-1;Choplifter;Action\Choplifter.png;Action\Choplifter.hex;;;9;
-1;Crabator;Action\Crabator.png;Action\Crabator.hex;;;;
-1;EpicMiniGames;Action\epicminigames.png;Action\epicminigames.hex;;;;
-1;FirePanic;Action\FirePanic.png;Action\FirePanic.hex;;;25;
-1;Glove;Action\Glove.png;Action\Glove.hex;;;18;
-1;Helii;Action\Helii.png;Action\Helii.hex;;;8;
+1;ArduIndy;Action\ArduIndy.png;Action\ArduIndy.hex;;;8;JacosteCode
+1;Bangi;Action\Bangi.png;Action\Bangi.hex;;;14;igvina
+1;CascadePath;Action\Cascadepath.png;Action\Cascadepath.hex;;;9;chris
+1;Catacombsofthedamned;Action\Cotd.png;Action\Cotd.hex;;;40;jhhoward
+1;Choplifter;Action\Choplifter.png;Action\Choplifter.hex;;;9;filmote
+1;Crabator;Action\Crabator.png;Action\Crabator.hex;;;;akkera102
+1;EpicMiniGames;Action\epicminigames.png;Action\epicminigames.hex;;;;akkera102
+1;FirePanic;Action\FirePanic.png;Action\FirePanic.hex;;;25;filmote
+1;Glove;Action\Glove.png;Action\Glove.hex;;;18;fuopy
+1;Helii;Action\Helii.png;Action\Helii.hex;;;8;BHSPitMonkey
 1;Hopper;Action\hopper.png;Action\hopper.hex;;;24;
 1;Jetpac;Action\Jetpac.png;Action\Jetpac.hex;;;5;
 1;Junofirst;Action\Junofirst.png;Action\Junofirst.hex;;;19;
