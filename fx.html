@@ -51,6 +51,8 @@ font-family: 'VT323', monospace;
 		}
 	.gameLink{
 		position: relative;
+		display: inline-block;
+		
 		}
 		
     hr{
@@ -105,7 +107,7 @@ font-family: 'VT323', monospace;
                 else{
                         var href = window.location.href;
                         var dir = href.substring(0, href.lastIndexOf('/')) + "/";
-				    html +='<a class="gameLink" target="mainframe" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"><div class="dev">' + row[7] +'</div></a>';
+				    html +='<a class="gameLink" target="mainframe" href="https://felipemanga.github.io/ProjectABE/?url='+ dir + row[3] +'"><div class="dev">' + row[7] +'</div><img title="' + row[1] +'" class="titleScreen" src="' + row[2] + '"></a>';
                 }
 
 		  }
