@@ -114,7 +114,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 4;microtd;Puzzle\microtd.png;Puzzle\microtd.hex;;;19;drummyfish
 4;curse;Puzzle\curse.png;Puzzle\curse.hex;;;17;PressPlayOnTape
 4;reversi;Puzzle\reversi.png;Puzzle\reversi.hex;;;15;obono
-7;littlerookchess;Demos\littlerookchess.png;Demos\littlerookchess.hex;;;13;olikraus
+4;littlerookchess;Demos\littlerookchess.png;Demos\littlerookchess.hex;;;13;olikraus
 4;Ardusweeper;Puzzle\Ardusweeper.png;Puzzle\Ardusweeper.hex;;;13;Frrout
 4;Minesweeper;Puzzle\Minesweeper.png;Puzzle\Minesweeper.hex;;;13;Pharap
 4;Sensitive;Puzzle\Sensitive.png;Puzzle\Sensitive.hex;;;13;spinal
