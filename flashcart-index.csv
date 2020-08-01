@@ -97,7 +97,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 3;Platformer;category-screens\Platformer.png;;;;;
 3;CasteBoy;Platformer\CastleBoy.png;Platformer\CastleBoy.hex;;;33;jlauener
 3;MysticBalloon;arg\MysticBalloon.png;arg\MysticBalloon.hex;;;17;TEAMarg
-8;MidnightWild;Misc\MidnightWild.png;Misc\MidnightWild.hex;;;28;crait
+3;MidnightWild;Misc\MidnightWild.png;Misc\MidnightWild.hex;;;28;crait
 3;Squario;Platformer\Squario.png;Platformer\Squario.hex;;;17;chris
 3;OmegaHorizon;Platformer\OmegaHorizon.png;Platformer\OmegaHorizon.hex;;;15;shdwwzrd
 3;SquareNose;Platformer\SquareNose.png;Platformer\SquareNose.hex;;;16;JuiceLizard
