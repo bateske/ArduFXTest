@@ -71,7 +71,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 2;CutieE;Arcade\CutieE.png;Arcade\CutieE.hex;;;;
 2;Ohyougonnadie;Arcade\oygd.png;Arcade\oygd.hex;;;;
 2;Tinydepth;Action\Tinydepth.png;Action\Tinydepth.hex;;;;akkera102
-3;Runner;;;;;;
+3;Runner;category-screens\Runner.png;;;;;
 3;hollowseeker;Arcade\hollowseeker.png;Arcade\hollowseeker.hex;;;21;obono
 3;Chromedino;Arcade\Chromedino.png;Arcade\Chromedino.hex;;;16;flaki
 3;Flappyball;Arcade\Flappyball.png;Arcade\Flappyball.hex;;;6;chris
