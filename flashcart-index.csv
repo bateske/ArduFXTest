@@ -18,7 +18,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 1;To;Action\To.png;Action\To.hex;;;4;
 1;Quadrastic;Action\Quadrastic.png;Action\Quadrastic.hex;;;0;dragula96
 1;BipBipBip;Arcade\BipBipBip.png;Arcade\BipBipBip.hex;;;5;JuiceLizard
-1;Breakout;Arcade\Breakout.png;Arcade\Breakout.hex;;;5;SebGoscik 
+1;ArduBreakout;Arcade\ArduBreakout.png;Arcade\ArduBreakout.hex;;;5;SebGoscik
 1;BreakoutV;Arcade\BreakoutV.png;Arcade\BreakoutV.hex;;;5;boochow
 1;Technomonkey;Arcade\Technomonkey.png;Arcade\Technomonkey.hex;;;5;RetrobitCoder
 1;snake3;Arcade\snake3.png;Arcade\snake3.hex;;;2;WojciechKo
