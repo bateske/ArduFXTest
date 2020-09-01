@@ -18,6 +18,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 1;To;Action\To.png;Action\To.hex;;;4;
 1;Quadrastic;Action\Quadrastic.png;Action\Quadrastic.hex;;;0;dragula96
 1;BipBipBip;Arcade\BipBipBip.png;Arcade\BipBipBip.hex;;;5;JuiceLizard
+1;Breakout;Arcade\Breakout.png;Arcade\Breakout.hex;;;5;SebGoscik 
 1;BreakoutV;Arcade\BreakoutV.png;Arcade\BreakoutV.hex;;;5;boochow
 1;Technomonkey;Arcade\Technomonkey.png;Arcade\Technomonkey.hex;;;5;RetrobitCoder
 1;snake3;Arcade\snake3.png;Arcade\snake3.hex;;;2;WojciechKo
@@ -133,7 +134,6 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 8;Tres;Puzzle\Tres.png;Puzzle\Tres.hex;;;3;cajogold
 8;Roshambo;Puzzle\Roshambo.png;Puzzle\Roshambo.hex;;;2;CDR_Xavier
 8;TicTacCurly;Puzzle\TicTacCurly.png;Puzzle\TicTacCurly.hex;;;2;curly
-8;Nomis;Puzzle\Nomis.png;Puzzle\Nomis.hex;;;;ccaroon
 8;Zoo;Puzzle\Zoo.png;Puzzle\Zoo.hex;;;;Yuki
 8;SantasFactory;Puzzle\santasfactory.png;Puzzle\santasfactory.hex;;;;madya121
 8;TNTank;Puzzle\tntank.png;Puzzle\tntank.hex;;;;madya121
@@ -201,7 +201,6 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 12;CowBro;Shooter\CowBro.png;Shooter\CowBro.hex;;;2;GERD
 12;TinyDigitalInvader;Shooter\TinyDigitalInvader.png;Shooter\TinyDigitalInvader.hex;;;1;akkera102
 12;101Starships;Shooter\101Starships.png;Shooter\101Starships.hex;;;;Zoglu
-12;Galaxion;Shooter\Galaxion.png;Shooter\Galaxion.hex;;;;tako2
 12;KemonoPatrol;Shooter\KemonoPatrol.png;Shooter\KemonoPatrol.hex;;;;metalidol
 12;TinyPlaque;Shooter\TinyPlaque.png;Shooter\TinyPlaque.hex;;;;ElectroLIB
 12;Siege;Action\Siege.png;Action\Siege.hex;;;2;shdwwzrd
@@ -251,3 +250,5 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 16;ASE;Application\ASE.png;Application\ASE.hex;;;9;pmwasson
 16;PocketPDA;Application\PocketPDA.png;Application\PocketPDA.hex;;;9;WangRenxin
 16;brainfxck;Application\brainfxck.png;Application\brainfxck.hex;;;8;red-hara
+16;SetSystemEEPROM;Application\SetSystemEEPROM.png;Application\SetSystemEEPROM.hex;;;10;MLXXXp
+16;EEPROMEditor;Application\EEPROMEditor.png;Application\EEPROMEditor.hex;;;10;filmote
