@@ -100,7 +100,7 @@ font-family: 'VT323', monospace;
 	});
 	
 	function generateHtmlTable(data) {
-		var html = '';
+		var html = '<ul id="sortable">';
 
       if(typeof(data[0]) === 'undefined') {
         return null;
@@ -129,8 +129,9 @@ font-family: 'VT323', monospace;
 		  }
 		});
 
-		
+		html += "</ul>";
 		$('#csv-display').append(html);
+		$( "#sortable" ).sortable();
 	  }
 	}
   });
