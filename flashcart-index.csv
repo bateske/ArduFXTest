@@ -220,7 +220,10 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;Application;category-screens\Application.png;;;;;
 15;eggmaster;Application\eggmaster.png;Application\eggmaster.hex;;;13;Prototype
 15;ArduboyGamepad;Application\ArduboyGamepad.png;Application\ArduboyGamepad.hex;;;12;fuopy
+15;VirtualGamepad;Application\VirtualGamepad.png;Application\VirtualGamepad.hex;;;7;eried
+15;ArduRemote;Application\ArduRemote.png;Application\ArduRemote.hex;;;5;eried
 15;Graph;Application\Graph.png;Application\Graph.hex;;;12;V360
+15;graph2;Application\graph2.png;Application\graph2.hex;;;7;V360
 15;ArduSaver;Application\ArduSaver.png;Application\ArduSaver.hex;;;11;Prototype
 15;screensaver;Demos\screensaver.png;Demos\screensaver.hex;;;7;blockbird
 15;GolfCompanion;Application\GolfCompanion.png;Application\GolfCompanion.hex;;;11;Vampirics
@@ -232,11 +235,8 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;book;Application\book.png;Application\book.hex;;;7;drummyfish
 15;tgwnc;Misc\tgwnc.png;Misc\tgwnc.hex;;;6;JuiceLizard
 15;ArduboyLightMeter;Application\ArduboyLightMeter.png;Application\ArduboyLightMeter.hex;;;7;MLXXXp
-15;graph2;Application\graph2.png;Application\graph2.hex;;;7;V360
-15;VirtualGamepad;Application\VirtualGamepad.png;Application\VirtualGamepad.hex;;;7;eried
 15;arduEZ;Application\arduEZ.png;Application\arduEZ.hex;;;6;shiyouganai
 15;OktaArduToken;Application\OktaArduToken.png;Application\OktaArduToken.hex;;;6;afitnerd
-15;ArduRemote;Application\ArduRemote.png;Application\ArduRemote.hex;;;5;eried
 15;sketch;Application\sketch.png;Application\sketch.hex;;;5;ccaroon
 15;ardubrain;Application\ardubrain.png;Application\ardubrain.hex;;;4;renato-grottesi
 15;CreditCard;Application\CreditCard.png;Application\CreditCard.hex;;;3;madya121
