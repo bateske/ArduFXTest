@@ -13,7 +13,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 1;pocketfighter;Arcade\pocketfighter.png;Arcade\pocketfighter.hex;;;2;WangRenxin
 1;Bounce;Arcade\bounce.png;Arcade\bounce.hex;;;7;RetrobitCoder
 1;ArduBoyng;Arcade\ArduBoyng.png;Arcade\ArduBoyng.hex;;;5;Troubadixx
-1;To;Action\To.png;Action\To.hex;;;4;
+1;To;Action\To.png;Action\To.hex;;;4;waday
 1;BipBipBip;Arcade\BipBipBip.png;Arcade\BipBipBip.hex;;;5;JuiceLizard
 1;ArduBreakout;Arcade\ArduBreakout.png;Arcade\ArduBreakout.hex;;;5;SebGoscik
 1;Technomonkey;Arcade\Technomonkey.png;Arcade\Technomonkey.hex;;;5;RetrobitCoder
@@ -97,7 +97,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 7;Sensitive;Puzzle\Sensitive.png;Puzzle\Sensitive.hex;;;13;spinal
 7;Blocks;Puzzle\Blocks.png;Puzzle\Blocks.hex;;;10;w3woody
 7;MAZEZAM;Puzzle\MAZEZAM.png;Puzzle\MAZEZAM.hex;;;10;ardubeast
-7;psicolo;Puzzle\psicolo.png;Puzzle\psicolo.hex;;;10;obono
+7;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
 7;Pipes;Puzzle\Pipes.png;Puzzle\Pipes.hex;;;7;filmote
 7;AMaze;Puzzle\AMaze.png;Puzzle\AMaze.hex;;;6;Keyboard_Camper
 7;Arduslide;Puzzle\Arduslide.png;Puzzle\Arduslide.hex;;;6;gooberdlx
@@ -111,9 +111,8 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 8;curse;Puzzle\curse.png;Puzzle\curse.hex;;;17;PressPlayOnTape
 8;KnightMove;Puzzle\knightmove.png;Puzzle\knightmove.hex;;;21;obono
 8;Samegame;Arcade\Samegame.png;Arcade\Samegame.hex;;;13;obono
-8;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
-8;quarto;Puzzle\quarto.png;Puzzle\quarto.hex;;;10;obono
 8;stairssweep;Puzzle\stairssweep.png;Puzzle\stairssweep.hex;;;;obono
+8;psicolo;Puzzle\psicolo.png;Puzzle\psicolo.hex;;;10;obono
 8;Minesweeper;Puzzle\Minesweeper.png;Puzzle\Minesweeper.hex;;;13;Pharap
 8;begemmed;arg\begemmed.png;arg\begemmed.hex;;;10;TEAMarg
 8;Blobattack;arg\Blobattack.png;arg\Blobattack.hex;;;9;TEAMarg
@@ -137,6 +136,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 9;Blackjack;Misc\Blackjack.png;Misc\Blackjack.hex;;;11;filmote
 9;Diceoffate;arg\Diceoffate.png;arg\Diceoffate.hex;;;5;TEAMarg
 9;reversi;Puzzle\reversi.png;Puzzle\reversi.hex;;;15;obono
+9;quarto;Puzzle\quarto.png;Puzzle\quarto.hex;;;10;obono
 9;littlerookchess;Demos\littlerookchess.png;Demos\littlerookchess.hex;;;13;olikraus
 9;Farkle;Puzzle\Farkle.png;Puzzle\Farkle.hex;;;11;PressPlayOnTape
 9;MicroCheckers;Puzzle\MicroCheckers.png;Puzzle\MicroCheckers.hex;;;11;Jezzamon
@@ -179,7 +179,6 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 12;StellarImpact;Shooter\StellarImpact.png;Shooter\StellarImpact.hex;;;14;gnargle
 12;Trenchrun;Action\Trenchrun.png;Action\Trenchrun.hex;;;14;lscardinali
 12;TinyAsteroids;Shooter\TinyAsteroids.png;Shooter\TinyAsteroids.hex;;;13;akkera102
-12;ASTEROIDS;Arcade\ASTEROIDS.png;Arcade\ASTEROIDS.hex;;;10;
 12;l4arduboy;Shooter\l4arduboy.png;Shooter\l4arduboy.hex;;;12;Yomogimaru
 12;Loverush;Arcade\Loverush.png;Arcade\Loverush.hex;;;11;Vampirics
 12;trollyfish;arg\trollyfish.png;arg\trollyfish.hex;;;10;TEAMarg
