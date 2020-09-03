@@ -69,7 +69,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 4;SFCave;Arcade\SFCave.png;Arcade\SFCave.hex;;;2;Slade1972
 5;Platformer;category-screens\Platformer.png;;;;;
 5;CasteBoy;Platformer\CastleBoy.png;Platformer\CastleBoy.hex;;;33;jlauener
-4;SanSan;Action\Sansan.png;Action\Sansan.hex;;;18;chame
+5;SanSan;Action\Sansan.png;Action\Sansan.hex;;;18;chame
 5;MysticBalloon;arg\MysticBalloon.png;arg\MysticBalloon.hex;;;17;TEAMarg
 5;MidnightWild;Misc\MidnightWild.png;Misc\MidnightWild.hex;;;28;crait
 5;OmegaHorizon;Platformer\OmegaHorizon.png;Platformer\OmegaHorizon.hex;;;15;shdwwzrd
