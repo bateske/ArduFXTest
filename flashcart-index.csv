@@ -33,6 +33,8 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 3;Kong2;Arcade\Kong2.png;Arcade\Kong2.hex;;;19;PressPlayOnTape
 3;Turtlebridge;Arcade\Turtlebridge.png;Arcade\Turtlebridge.hex;;;19;PressPlayOnTape
 3;SpaceCab;Arcade\SpaceCab.png;Arcade\SpaceCab.hex;;;12;PressPlayOnTape
+3;LionTamer;Arcade\LionTamer.png;Arcade\LionTamer.hex;;;;PressPlayOnTape
+3;OilPanic;Arcade\OilPanic.png;Arcade\OilPanic.hex;;;;PressPlayOnTape
 3;Rooftop;Action\rooftop.png;Action\rooftop.hex;;;21;Prototype
 3;BiriBiriBeat;Arcade\biribiribeat.png;Arcade\biribiribeat.hex;;;12;shiyouganai
 3;Backtothejungle;Arcade\Backtothejungle.png;Arcade\Backtothejungle.hex;;;11;eried
@@ -99,6 +101,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 7;MAZEZAM;Puzzle\MAZEZAM.png;Puzzle\MAZEZAM.hex;;;10;ardubeast
 7;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
 7;Pipes;Puzzle\Pipes.png;Puzzle\Pipes.hex;;;7;filmote
+7;xmastree;Misc\xmastree.png;Misc\xmastree.hex;;;10;MrBlinky
 7;AMaze;Puzzle\AMaze.png;Puzzle\AMaze.hex;;;6;Keyboard_Camper
 7;Arduslide;Puzzle\Arduslide.png;Puzzle\Arduslide.hex;;;6;gooberdlx
 7;Crates3d;Puzzle\Crates3d.png;Puzzle\Crates3d.hex;;;6;Brian
@@ -224,7 +227,6 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;gameoflife;Demos\gameoflife.png;Demos\gameoflife.hex;;;;kmasato
 15;boids;Demos\boids.png;Demos\boids.hex;;;;elpassion
 15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.png;;;;rainnw
-15;xmastree;Misc\xmastree.png;Misc\xmastree.hex;;;10;MrBlinky
 15;fidget;Demos\fidget.png;Demos\fidget.hex;;;8;Trigonated
 15;book;Application\book.png;Application\book.hex;;;7;drummyfish
 15;tgwnc;Misc\tgwnc.png;Misc\tgwnc.hex;;;6;JuiceLizard
