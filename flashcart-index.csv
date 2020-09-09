@@ -226,7 +226,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;ArduboyLife;Misc\ArduboyLife.png;Misc\ArduboyLife.hex;;;10;MLXXXp
 15;gameoflife;Demos\gameoflife.png;Demos\gameoflife.hex;;;;kmasato
 15;boids;Demos\boids.png;Demos\boids.hex;;;;elpassion
-15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.png;;;;rainnw
+15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.hex;;;;rainnw
 15;fidget;Demos\fidget.png;Demos\fidget.hex;;;8;Trigonated
 15;book;Application\book.png;Application\book.hex;;;7;drummyfish
 15;tgwnc;Misc\tgwnc.png;Misc\tgwnc.hex;;;6;JuiceLizard
