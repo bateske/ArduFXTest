@@ -249,3 +249,4 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 16;brainfxck;Application\brainfxck.png;Application\brainfxck.hex;;;8;red-hara
 16;SetSystemEEPROM;Application\SetSystemEEPROM.png;Application\SetSystemEEPROM.hex;;;10;MLXXXp
 16;EEPROMEditor;Application\EEPROMEditor.png;Application\EEPROMEditor.hex;;;10;filmote
+16;welcome;Application\welcome.png;Application\welcome.hex;;;10;bateske
