@@ -69,6 +69,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 4;Fanboat;Arcade\Fanboat.png;Arcade\Fanboat.hex;;;9;fanboat
 4;YouWontSurvive;Arcade\YouWontSurvive.png;Arcade\YouWontSurvive.hex;;;3;AstroAndre
 4;SFCave;Arcade\SFCave.png;Arcade\SFCave.hex;;;2;Slade1972
+4;Evasion;Arcade\evasion.png;Arcade\evasion.hex;;;;obono
 5;Platformer;category-screens\Platformer.png;;;;;
 5;CasteBoy;Platformer\CastleBoy.png;Platformer\CastleBoy.hex;;;33;jlauener
 5;SanSan;Action\Sansan.png;Action\Sansan.hex;;;18;chame
@@ -238,6 +239,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;ardubrain;Application\ardubrain.png;Application\ardubrain.hex;;;4;renato-grottesi
 15;CreditCard;Application\CreditCard.png;Application\CreditCard.hex;;;3;madya121
 15;Calendar;Application\Calendar.png;Application\Calendar.hex;;;2;hartmann1301
+15;Pi24k;Application\pi24k.png;Application\pi24k.hex;;;;obono
 16;Tools;category-screens\Tools.png;;;;;
 16;Ardutosh;Application\Ardutosh.png;Application\Ardutosh.hex;;;31;jhhoward
 16;Abshell;Application\Abshell.png;Application\Abshell.hex;;;16;boochow
