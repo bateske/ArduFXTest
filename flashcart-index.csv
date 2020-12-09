@@ -98,6 +98,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 7;Darkstar;Misc\Darkstar.png;Misc\Darkstar.hex;;;14;MrBlinky
 7;Sensitive;Puzzle\Sensitive.png;Puzzle\Sensitive.hex;;;13;spinal
 7;Blocks;Puzzle\Blocks.png;Puzzle\Blocks.hex;;;10;w3woody
+7;Hangman;Puzzle\Hangman.png;Puzzle\Hangman.hex;;;;serisman
 7;tinysokoban;Puzzle\tinysokoban.png;Puzzle\tinysokoban.hex;;;5;akkera102
 7;MAZEZAM;Puzzle\MAZEZAM.png;Puzzle\MAZEZAM.hex;;;10;ardubeast
 7;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
