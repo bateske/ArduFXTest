@@ -98,6 +98,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 7;Darkstar;Misc\Darkstar.png;Misc\Darkstar.hex;;;14;MrBlinky
 7;Sensitive;Puzzle\Sensitive.png;Puzzle\Sensitive.hex;;;13;spinal
 7;Blocks;Puzzle\Blocks.png;Puzzle\Blocks.hex;;;10;w3woody
+7;Hangman;Puzzle\Hangman.png;Puzzle\Hangman.hex;;;;serisman
 7;tinysokoban;Puzzle\tinysokoban.png;Puzzle\tinysokoban.hex;;;5;akkera102
 7;MAZEZAM;Puzzle\MAZEZAM.png;Puzzle\MAZEZAM.hex;;;10;ardubeast
 7;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
@@ -226,7 +227,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;ArduboyLife;Misc\ArduboyLife.png;Misc\ArduboyLife.hex;;;10;MLXXXp
 15;gameoflife;Demos\gameoflife.png;Demos\gameoflife.hex;;;;kmasato
 15;boids;Demos\boids.png;Demos\boids.hex;;;;elpassion
-15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.png;;;;rainnw
+15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.hex;;;;rainnw
 15;fidget;Demos\fidget.png;Demos\fidget.hex;;;8;Trigonated
 15;book;Application\book.png;Application\book.hex;;;7;drummyfish
 15;tgwnc;Misc\tgwnc.png;Misc\tgwnc.hex;;;6;JuiceLizard
