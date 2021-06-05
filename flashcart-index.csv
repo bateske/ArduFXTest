@@ -98,7 +98,6 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 7;Darkstar;Misc\Darkstar.png;Misc\Darkstar.hex;;;14;MrBlinky
 7;Sensitive;Puzzle\Sensitive.png;Puzzle\Sensitive.hex;;;13;spinal
 7;Blocks;Puzzle\Blocks.png;Puzzle\Blocks.hex;;;10;w3woody
-7;tinysokoban;Puzzle\tinysokoban.png;Puzzle\tinysokoban.hex;;;5;akkera102
 7;MAZEZAM;Puzzle\MAZEZAM.png;Puzzle\MAZEZAM.hex;;;10;ardubeast
 7;chiemagari;Puzzle\chiemagari.png;Puzzle\chiemagari.hex;;;11;obono
 7;Pipes;Puzzle\Pipes.png;Puzzle\Pipes.hex;;;7;filmote
@@ -121,6 +120,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 8;begemmed;arg\begemmed.png;arg\begemmed.hex;;;10;TEAMarg
 8;Blobattack;arg\Blobattack.png;arg\Blobattack.hex;;;9;TEAMarg
 8;sudoku;Puzzle\sudoku.png;Puzzle\sudoku.hex;;;5;neilsunw
+8;tinysokoban;Puzzle\tinysokoban.png;Puzzle\tinysokoban.hex;;;5;akkera102
 8;Boxstacker;Puzzle\Boxstacker.png;Puzzle\Boxstacker.hex;;;4;dragula96
 8;Arduboysays;Puzzle\Arduboysays.png;Puzzle\Arduboysays.hex;;;4;Slade
 8;Diamonds;Arcade\diamonds.png;Arcade\diamonds.hex;;;5;redbug
@@ -226,7 +226,7 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 15;ArduboyLife;Misc\ArduboyLife.png;Misc\ArduboyLife.hex;;;10;MLXXXp
 15;gameoflife;Demos\gameoflife.png;Demos\gameoflife.hex;;;;kmasato
 15;boids;Demos\boids.png;Demos\boids.hex;;;;elpassion
-15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.png;;;;rainnw
+15;Silence;Misc\silence-a-text-adventure.png;Misc\silence-a-text-adventure.hex;;;;rainnw
 15;fidget;Demos\fidget.png;Demos\fidget.hex;;;8;Trigonated
 15;book;Application\book.png;Application\book.hex;;;7;drummyfish
 15;tgwnc;Misc\tgwnc.png;Misc\tgwnc.hex;;;6;JuiceLizard
@@ -249,4 +249,3 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 16;brainfxck;Application\brainfxck.png;Application\brainfxck.hex;;;8;red-hara
 16;SetSystemEEPROM;Application\SetSystemEEPROM.png;Application\SetSystemEEPROM.hex;;;10;MLXXXp
 16;EEPROMEditor;Application\EEPROMEditor.png;Application\EEPROMEditor.hex;;;10;filmote
-16;welcome;Application\welcome.png;Application\welcome.hex;;;10;bateske
